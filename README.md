@@ -1,3 +1,7 @@
+## 📊 Visualização dos Resultados
+![Gráfico de Perfil dos Clusters RFM](cluster_rfm_analise.png)
+
+
 # 📊 Customer Segmentation & E-Commerce Analytics (RFM + K-Means)
 
 ## 🎯 Visão Geral do Projeto
