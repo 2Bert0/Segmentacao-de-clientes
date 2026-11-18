@@ -25,4 +25,4 @@ Através da aplicação do modelo, os clientes foram divididos em 4 clusters dis
 4. **💤 Inativos (Sumidos):** A maior massa de clientes antigos que esfriaram ao longo do tempo, representando uma oportunidade prioritária para campanhas de *win-back* (recuperação).
 
 ---
-*Desenvolvido por #Humberto como parte do portfólio prático de Engenharia de Dados e Ciência de Dados Aplicada aos Negócios.*
+*Desenvolvido por Humberto como parte do portfólio prático de Engenharia de Dados e Ciência de Dados Aplicada aos Negócios.*
